@@ -14,9 +14,21 @@ I have experience in the technologies listed in the **toolbox** below:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width='50px' height='50px' />
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width='70px' height='70px' />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width='70px' height='70px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width='60px' height='60px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width='60px' height='60px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width='50px' height='50px' />
 
+
+
+
+
+---
+
+## &#x1f4c8; My GitHub Stats
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demetricew20&hide=html&theme=radical)](https://github.com/Demetricew20/github-readme-stats)
+ 
+ [![Demetrice's GitHubStats](https://github-readme-stats.vercel.app/api?username=Demetricew20&theme=radical)](https://github.com/Demetricew20/github-readme-stats)
 
 <!--
 **Demetricew20/Demetricew20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
