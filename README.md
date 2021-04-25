@@ -6,8 +6,6 @@ I am an enthusiastic Full-Stack Software Development student with 5 months of ac
 
 I have experience in the technologies listed in the **toolbox** below:
 
----
-
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS Logo" width='50px' height='50px' />
@@ -28,7 +26,7 @@ I have experience in the technologies listed in the **toolbox** below:
  
  ---
  
- ## 🌟Favorite Project
+ ## 🌟Favorite Projects
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=MusicLibrary)](https://github.com/Demetricew20/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/github-readme-stats)
