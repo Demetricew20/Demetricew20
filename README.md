@@ -28,16 +28,16 @@ I have experience in the technologies listed in the **toolbox** below:
  
  ---
  
- ## 🌟Favorite Projects🌟
+ ## 🌟Favorite Project
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=MusicLibrary)](https://github.com/Demetricew20/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=rpsls)](https://github.com/Demetricew20/github-readme-stats)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=superherocreator)](https://github.com/Demetricew20/github-readme-stats)
  
- --
+ ---
  
- ## Support or Contact Me
+ ## 📲 Support or Contact Me
  👨🏻‍💻Please feel free to get in touch, I'll be happy to hear from you!!💁🏽‍♂️‍  <a href="https://www.linkedin.com/in/demetricewilliams/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" ></a>
  <a href="mailto:demetrice_williams@hotmail.com" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/893/893257.svg?token=exp=1619375690~hmac=0b25034e27ade56e4c773fece87678b0" alt="Email" width="20" height="20" ></a>
  
