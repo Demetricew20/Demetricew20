@@ -18,17 +18,22 @@ I have experience in the technologies listed in the **toolbox** below:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width='60px' height='60px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width='50px' height='50px' />
 
-
-
-
-
 ---
 
-## &#x1f4c8; My GitHub Stats
+<h2>&#x1f4c8; My GitHub Stats</h2>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demetricew20&hide=html&theme=radical)](https://github.com/Demetricew20/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demetricew20&hide=html&theme=radical&layout=compact)](https://github.com/Demetricew20/github-readme-stats)
  
  [![Demetrice's GitHubStats](https://github-readme-stats.vercel.app/api?username=Demetricew20&theme=radical)](https://github.com/Demetricew20/github-readme-stats)
+ 
+ ---
+ 
+ <h2>🌟Favorite Projects🌟</h2>
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=MusicLibrary)](https://github.com/Demetricew20/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=rpsls)](https://github.com/Demetricew20/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=superherocreator)](https://github.com/Demetricew20/github-readme-stats)
 
 <!--
 **Demetricew20/Demetricew20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
