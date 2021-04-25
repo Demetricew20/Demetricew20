@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'/>, I am Demetrice Williams!
+
+I am an enthusiastic Full-Stack Software Development student with 5 months of academic experience in software development in search of a challenging and rewarding position where I can make a positive impact, acquire new skills, and grow as a software developer.
+
+I have experience in the technologies listed in the **toolbox** below:
 
 <!--
 **Demetricew20/Demetricew20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
