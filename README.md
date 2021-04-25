@@ -28,10 +28,10 @@ I have experience in the technologies listed in the **toolbox** below:
  
  ## 🌟Favorite Projects
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=MusicLibrary)](https://github.com/Demetricew20/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=rpsls)](https://github.com/Demetricew20/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=superherocreator)](https://github.com/Demetricew20/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=MusicLibrary)](https://github.com/Demetricew20/MusicLibrary)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/Amazon_Clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=rpsls)](https://github.com/Demetricew20/RPSLS)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=TrashCollector)](https://github.com/Demetricew20/TrashCollector)
  
  ---
  
