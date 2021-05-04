@@ -2,7 +2,7 @@
 
 ---
 
-I am an enthusiastic Full-Stack Software Development student with 5 months of academic experience in software development in search of a challenging and rewarding position where I can make a positive impact, acquire new skills, and grow as a software developer.
+I am an enthusiastic Full-Stack Software Development student with 6 months of academic experience in software development in search of a challenging and rewarding position where I can make a positive impact, acquire new skills, and grow as a software developer.
 
 I have experience in the technologies listed in the **toolbox** below:
 
