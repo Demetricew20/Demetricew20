@@ -21,6 +21,10 @@ I have experience in the technologies listed in the **toolbox** below:
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Adobe XD Logo" width='50px' height='50px' />
 
 ---
+### View My Portfolio
+- <a href="https://demetricew20.github.io/">Portfolio Website</a>
+
+---
 
 ## &#x1f4c8; My GitHub Stats
  
