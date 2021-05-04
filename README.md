@@ -22,7 +22,7 @@ I have experience in the technologies listed in the **toolbox** below:
 
 ---
 ### View My Portfolio
-- <a href="https://demetricew20.github.io/">Portfolio Website</a>
+- <a href="https://demetricew20.github.io/" target="_blank" rel="noreferrer noopener">Portfolio Website</a>
 
 ---
 
