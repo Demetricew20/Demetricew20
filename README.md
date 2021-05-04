@@ -18,6 +18,7 @@ I have experience in the technologies listed in the **toolbox** below:
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm Logo" width='80px' height='70px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio Logo" width='50px' height='50px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" alt="Adobe XD Logo" width='50px' height='50px' />
 
 ---
 
