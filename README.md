@@ -45,7 +45,7 @@ I have experience in the technologies listed in the **toolbox** below:
  
  ## 📲 Support or Contact Me
  👨🏻‍💻Please feel free to get in touch, I'll be happy to hear from you!!💁🏽‍♂️‍  <a href="https://www.linkedin.com/in/demetricewilliams/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" ></a>
- <a href="mailto:demetrice_williams@hotmail.com" target="_blank"><img src="https://www.flaticon.com/svg/vstatic/svg/893/893257.svg?token=exp=1619375690~hmac=0b25034e27ade56e4c773fece87678b0" alt="Email" width="20" height="20" ></a>
+ <a href="mailto:demetrice_williams@hotmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/76887873/118370190-1ab64d00-b553-11eb-8ebb-8eb9ea44a3f9.png" alt="Email" width="20" height="20" ></a>
  
 
 <!--
