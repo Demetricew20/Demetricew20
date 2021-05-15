@@ -13,6 +13,8 @@ I have experience in the technologies listed in the **toolbox** below:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django Logo" width='60px' height='60px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width='60px' height='60px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNet Logo" width='60px' height='60px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width='60px' height='60px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm Logo" width='80px' height='70px' />
