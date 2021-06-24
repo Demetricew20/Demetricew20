@@ -30,15 +30,13 @@ I have experience in the technologies listed in the **toolbox** below:
 
 ## &#x1f4c8; My GitHub Stats
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demetricew20&hide=html&theme=radical&layout=compact)](https://github.com/Demetricew20/github-readme-stats)
- 
  [![Demetrice's GitHubStats](https://github-readme-stats.vercel.app/api?username=Demetricew20&theme=radical)](https://github.com/Demetricew20/github-readme-stats)
  
  ---
  
  ## 🌟Favorite Projects
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=MusicLibrary)](https://github.com/Demetricew20/MusicLibrary)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Flashcards_UI)](https://github.com/Demetricew20/Flashcards_UI)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/Amazon_Clone)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=SweepStakes)](https://github.com/Demetricew20/SweepStakes)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=TrashCollector)](https://github.com/Demetricew20/TrashCollector)
