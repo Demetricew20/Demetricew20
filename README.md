@@ -38,6 +38,7 @@ I have experience in the technologies listed in the **toolbox** below:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Amazon_Clone)](https://github.com/Demetricew20/Amazon_Clone)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Disney_Plus_Clone)](https://github.com/Demetricew20/Disney_Plus_Clone)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=TrashCollector)](https://github.com/Demetricew20/TrashCollector)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Flashcards_UI)](https://github.com/Demetricew20/Flashcards_UI)
  
  ---
  
