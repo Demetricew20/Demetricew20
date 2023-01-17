@@ -2,13 +2,19 @@
 
 ---
 
-I am an Full-Stack Software Developer in search of a challenging and rewarding position where I can make a positive impact, acquire new skills, and grow as a software developer.
+I'm a detail-oriented software engineer with about 2 years of software development experience with the ability to carry projects from design to implementation to integration.
+
+I'm a highly motivated individual with a strong passion for front-end engineering who fully embraces teamwork but is very capable of working independently.
+
 
 I have experience in the technologies listed in the **toolbox** below:
 
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width='50px' height='50px' /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS Logo" width='50px' height='50px' />
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure logo" width="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="50px" />
+<img src="https://www.howtogeek.com/wp-content/uploads/csit/2021/08/bca5f5f6-1.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Blazor logo" height="50px" width="70px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width='50px' height='50px' />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width='50px' height='50px' />
@@ -26,18 +32,11 @@ I have experience in the technologies listed in the **toolbox** below:
 - <a href="https://demetricew20.github.io/" target="_blank" rel="noreferrer noopener">Portfolio Website</a>
 
 ---
-
-## &#x1f4c8; My GitHub Stats
- 
- [![Demetrice's GitHubStats](https://github-readme-stats.vercel.app/api?username=Demetricew20&theme=radical)](https://github.com/Demetricew20/github-readme-stats)
- 
- ---
- 
  ## 🌟Favorite Projects
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Flashcards_UI)](https://github.com/Demetricew20/Flashcards_UI)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=amazon_clone)](https://github.com/Demetricew20/Amazon_Clone)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=SweepStakes)](https://github.com/Demetricew20/SweepStakes)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=NetFlix_Clone)](https://github.com/Demetricew20/NetflixClone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Amazon_Clone)](https://github.com/Demetricew20/Amazon_Clone)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=Disney_Plus_Clone)](https://github.com/Demetricew20/Disney_Plus_Clone)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Demetricew20&repo=TrashCollector)](https://github.com/Demetricew20/TrashCollector)
  
  ---
