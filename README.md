@@ -2,7 +2,7 @@
 
 ---
 
-I'm a detail-oriented software engineer with 2 years of software development experience with the ability to carry projects from design to implementation to integration.
+I'm a detail-oriented software engineer with 3 years of software development experience with the ability to carry projects from design to implementation to integration.
 
 I'm a highly motivated individual with a strong passion for front-end engineering who fully embraces teamwork but is very capable of working independently.
 
